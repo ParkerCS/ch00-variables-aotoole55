@@ -6,7 +6,7 @@
 # 3(60x^2 + 3x/9) + 2x - 4/3(x) - sqrt(x)
 # where x = 12.83
 x = 12.83
-your_answer = "Enter the equation"
+your_answer = "CHANGE ME equation"
 print(your_answer)
 
 #PROBLEM 2 (Set your alarm - 3pts)
