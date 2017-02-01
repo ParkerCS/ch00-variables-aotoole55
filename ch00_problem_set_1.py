@@ -8,6 +8,7 @@
 x = 12.83
 your_answer = 3*(60*(x**2) + 3*(x/9)) + 2*x - 4/3*(x) - x**0.5
 print(your_answer)
+# Lee - Okay, but should space between the multiplication also.
 
 #PROBLEM 2 (Set your alarm - 3pts)
 
@@ -61,6 +62,8 @@ pi = 3.14159
 area = pi * radius**2
 
 print("The surface area of a circle with radius", str(radius),"is", str(area)+".")
+
+#Lee - Use math.pi
 
 #PROBLEM 6 (Coin counter - 4pts)
 # Write code that classifies a given amount of money (which you store in a variable named count),
